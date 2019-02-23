@@ -1,11 +1,14 @@
+Baixe os arquivos dentro do projeto
+
+Execute o arquivo list.html
 Inserir tarefa:
-Ao entrar no programam você irá se deparar com a tela. No campo "escreva a tarefa", insira a sua tarefa desejada e pressione em "adicionar tarefa". Você perceberá que a tarefa se localiza no campo tarefas, com duas opções ao lado dela no campo "operações".
+Ao entrar no programam vocÃª irÃ¡ se deparar com a tela. No campo "escreva a tarefa", insira a sua tarefa desejada e pressione em "adicionar tarefa". VocÃª perceberÃ¡ que a tarefa se localiza no campo tarefas, com duas opÃ§Ãµes ao lado dela no campo "operaÃ§Ãµes".
 
 Exluir tarefa:
-Caso deseje excluir a tarefa, clique no X ao lado do botão "alterar".
+Caso deseje excluir a tarefa, clique no X ao lado do botÃ£o "alterar".
 
 Alterar tarefa:
-Para alterar a tarefa, clique no botão "alterar" e o campo onde estava a tarefa agora mudará. Clique no campo para modificar a tarefa. Após feitas as alterações, clique no botão "salvar" que estará localizado no lugar onde o botão alterar estava.
+Para alterar a tarefa, clique no botÃ£o "alterar" e o campo onde estava a tarefa agora mudarÃ¡. Clique no campo para modificar a tarefa. ApÃ³s feitas as alteraÃ§Ãµes, clique no botÃ£o "salvar" que estarÃ¡ localizado no lugar onde o botÃ£o alterar estava.
 
 
 
